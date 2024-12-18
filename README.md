@@ -2,8 +2,6 @@
 
 Give it some folders for video, folder for Jams, put an ice pack on the computer and take a nap.
 
-<iframe width="960" height="543" src="https://www.youtube.com/embed/DAsZSAEKRyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # running it
 
 `python3 -m venv env`
